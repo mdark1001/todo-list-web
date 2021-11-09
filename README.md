@@ -1,4 +1,4 @@
-# app
+# To Do List app
 
 ## Project setup
 ```
